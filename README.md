@@ -1,2 +1,8 @@
-# AD-Onto
-A Java tool for importing ADNI data into the AD-Onto ontology
+ADNI Ontology Loader Library
+============================
+
+A Library....
+_____________
+
+
+TODO 

@@ -1,0 +1,8 @@
+"ADNI TABLE";"TABLE_ VARIABLE";"EXPECTED VALUE";"CORRECTED VALUE"
+"NPI";"NPIA";"No";"NON"
+"MMSE";"WORD1";"0= Incorrect";"2= Incorrect"
+"MMSE";"WORD2";"0= Incorrect";"2= Incorrect"
+"MMSE";"WORD3";"0= Incorrect";"2= Incorrect"
+"MMSE";"WORD1DL";"0= Incorrect";"2= Incorrect"
+"MMSE";"WORD2DL";"0= Incorrect";"2= Incorrect"
+"MMSE";"WORD3DL";"0= Incorrect";"2= Incorrect"
