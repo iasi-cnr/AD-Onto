@@ -16,4 +16,4 @@ Please credit our work in your manuscript by citing:
 
 > Francesco Taglino, Fabio Cumbo, Giulia Antognoli, Ivan Arisi, Mara D'Onofrio, Federico Perazzoni, Roger Voyat, Giulia Fiscon, Federica Conte, Marco Canevelli, Giuseppe Bruno, Patrizia Mecocci, and Paola Bertolazzi, "An Ontology-based approach for Modelling and Querying the Alzheimer’s Disease Data", _mauscript in preparation_ (2022)
 
-Copyright © 2022 [IASI-CNR](https://github.com/iasi-cnr). See [LICENSE](https://github.com/iasi-cnr/Ad-Onto/blob/main/LICENSE) for additional details.
+Copyright © 2022 [IASI-CNR](https://github.com/iasi-cnr). See [LICENSE](https://github.com/iasi-cnr/AD-Onto/blob/main/LICENSE) for additional details.
